@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning web devlopment
 - 💞️ I’m looking to collaborate on python projects
 - 📫 contact with- ekanshpanwar1@gmail.com
+- ex davian
+- galgotia studeent
 
 
 <!---
